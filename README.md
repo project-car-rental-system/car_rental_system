@@ -1,6 +1,6 @@
 # 🚗 Flutter Car Rental App
 
-A complete mobile application built with Flutter for a car rental service. Users can view available cars, check specifications, and make bookings directly from the app.
+This application is a car rental system project developed using Flutter technology. It aims to provide a modern, easy and efficient user experience in managing vehicle rentals digitally. This application is designed with a user-friendly interface and is suitable for use in various sizes of mobile devices.
 
 ---
 
@@ -13,24 +13,6 @@ A complete mobile application built with Flutter for a car rental service. Users
 - 🔔 Notifications for booking status
 - 🔐 Login & Registration system
 - 🎨 Modern responsive UI
-
----
-
-## 🛠️ Tech Stack
-
-- Flutter
-- Dart
-- Firebase Authentication (if used)
-- Local Storage / Shared Preferences
-- Google Fonts & UI Widgets
-
----
-
-## 📸 Screenshots (optional)
-
-| Welcome Screen | Car List | Booking |
-|----------------|----------|---------|
-| ![Welcome](assets/images/welcome_car.png) | ![Car List](assets/images/myvi.jpg) | ![Booking](assets/images/vios.jpg) |
 
 ---
 
