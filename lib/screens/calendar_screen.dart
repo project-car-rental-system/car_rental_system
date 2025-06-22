@@ -15,8 +15,8 @@ class _CalendarScreenState extends State<CalendarScreen> {
   DateTime? _selectedDay;
 
   final Map<String, List<String>> availableCars = {
-    '2025-06-17': ['Toyota Vios', 'Perodua Myvi'],
-    '2025-06-19': ['Honda City'],
+    '2025-06-22': ['Toyota Vios', 'Perodua Myvi'],
+    '2025-06-26': ['Honda City'],
     '2025-06-24': ['X70', 'Toyota Vios'],
   };
 
