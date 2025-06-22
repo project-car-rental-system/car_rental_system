@@ -1,16 +1,43 @@
-# flutter_application_6
+# 🚗 Flutter Car Rental App
 
-A new Flutter project.
+A complete mobile application built with Flutter for a car rental service. Users can view available cars, check specifications, and make bookings directly from the app.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🏠 Home screen with navigation to all features
+- 🚘 Car list with images, capacity, and price
+- 📄 Car details with full specifications
+- 📆 Booking system with summary confirmation
+- 🔔 Notifications for booking status
+- 🔐 Login & Registration system
+- 🎨 Modern responsive UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Firebase Authentication (if used)
+- Local Storage / Shared Preferences
+- Google Fonts & UI Widgets
+
+---
+
+## 📸 Screenshots (optional)
+
+| Welcome Screen | Car List | Booking |
+|----------------|----------|---------|
+| ![Welcome](assets/images/welcome_car.png) | ![Car List](assets/images/myvi.jpg) | ![Booking](assets/images/vios.jpg) |
+
+---
+
+## 🚀 How to Run
+
+```bash
+git clone https://github.com/project-car-rental-system/flutter-car-rental.git
+cd flutter-car-rental
+flutter pub get
+flutter run
